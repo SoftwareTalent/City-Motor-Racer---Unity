@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: d518c1ca6b41a53499dca8b3d830587e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BACK_LEFT_MEDDIL_TYRES
+    100002: BACK_LEFT_MEDDIL_TYRES10
+    100004: BACK_LEFT_MEDDIL_TYRES2
+    100006: BACK_LEFT_MEDDIL_TYRES5
+    100008: BACK_LEFT_MEDDIL_TYRES6
+    100010: BACK_LEFT_MEDDIL_TYRES7
+    100012: BACK_LEFT_MEDDIL_TYRES8
+    100014: BACK_LEFT_MEDDIL_TYRES9
+    100016: body
+    100018: FRENT_LEFT_TYRE
+    100020: FRENT_LEFT_TYRE1
+    100022: //RootNode
+    400000: BACK_LEFT_MEDDIL_TYRES
+    400002: BACK_LEFT_MEDDIL_TYRES10
+    400004: BACK_LEFT_MEDDIL_TYRES2
+    400006: BACK_LEFT_MEDDIL_TYRES5
+    400008: BACK_LEFT_MEDDIL_TYRES6
+    400010: BACK_LEFT_MEDDIL_TYRES7
+    400012: BACK_LEFT_MEDDIL_TYRES8
+    400014: BACK_LEFT_MEDDIL_TYRES9
+    400016: body
+    400018: FRENT_LEFT_TYRE
+    400020: FRENT_LEFT_TYRE1
+    400022: //RootNode
+    2300000: BACK_LEFT_MEDDIL_TYRES
+    2300002: BACK_LEFT_MEDDIL_TYRES10
+    2300004: BACK_LEFT_MEDDIL_TYRES2
+    2300006: BACK_LEFT_MEDDIL_TYRES5
+    2300008: BACK_LEFT_MEDDIL_TYRES6
+    2300010: BACK_LEFT_MEDDIL_TYRES7
+    2300012: BACK_LEFT_MEDDIL_TYRES8
+    2300014: BACK_LEFT_MEDDIL_TYRES9
+    2300016: body
+    2300018: FRENT_LEFT_TYRE
+    2300020: FRENT_LEFT_TYRE1
+    3300000: BACK_LEFT_MEDDIL_TYRES
+    3300002: BACK_LEFT_MEDDIL_TYRES10
+    3300004: BACK_LEFT_MEDDIL_TYRES2
+    3300006: BACK_LEFT_MEDDIL_TYRES5
+    3300008: BACK_LEFT_MEDDIL_TYRES6
+    3300010: BACK_LEFT_MEDDIL_TYRES7
+    3300012: BACK_LEFT_MEDDIL_TYRES8
+    3300014: BACK_LEFT_MEDDIL_TYRES9
+    3300016: body
+    3300018: FRENT_LEFT_TYRE
+    3300020: FRENT_LEFT_TYRE1
+    4300000: body
+    4300002: FRENT_LEFT_TYRE
+    4300004: BACK_LEFT_MEDDIL_TYRES
+    4300006: BACK_LEFT_MEDDIL_TYRES2
+    4300008: BACK_LEFT_MEDDIL_TYRES5
+    4300010: BACK_LEFT_MEDDIL_TYRES6
+    4300012: FRENT_LEFT_TYRE1
+    4300014: BACK_LEFT_MEDDIL_TYRES7
+    4300016: BACK_LEFT_MEDDIL_TYRES8
+    4300018: BACK_LEFT_MEDDIL_TYRES9
+    4300020: BACK_LEFT_MEDDIL_TYRES10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
